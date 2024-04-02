@@ -1,4 +1,5 @@
-# Calculadora de IMC em Python 🦊
+# Olá, Mundo! 👋 🦊
+# Calculadora de IMC em Python 
 
 Este repositório contém um script simples em Python que calcula o Índice de Massa Corporal (IMC) e fornece a classificação do IMC com base no valor calculado.
 
